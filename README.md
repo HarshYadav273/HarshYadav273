@@ -29,6 +29,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=HarshYadav273&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=HarshYadav273&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav273&theme=dark&hide_border=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=HarshYadav273&theme=dark)
+
 
 ---
 
