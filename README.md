@@ -17,6 +17,15 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=HarshYadav273&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav273&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📈 My Coding Journey
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshYadav273&theme=react-dark&hide_border=true)
+
+### 💪 Current Focus
+- 🔥 **36 Total Contributions** (check my [profile](https://github.com/HarshYadav273) for full activity)
+- 📚 Building projects in: Java, DSA, Web Dev
+- 🎯 Next learning: Python → AI/ML
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarshYadav273&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
