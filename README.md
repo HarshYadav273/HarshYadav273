@@ -1,14 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on: Java + DSA and small Web Dev projects (HTML ✅, CSS ✅, JavaScript (ongoing))  
-👯 I’m looking to collaborate on: Beginner-friendly Java / Frontend projects  
-🤝 I’m looking for help with: Competitive programming + DSA + improving CSS layouts  
-🌱 I’m currently learning: DSA in Java, Git/GitHub, JavaScript → Python next  
-💬 Ask me about: Java, DSA, HTML, CSS, beginner web dev  
-⚡ Fun fact: I prefer building projects while learning  
+# 💫 About Me
+
+🔭 **I’m currently working on:** Java + DSA and small Web Dev projects (HTML ✅, CSS ✅, JavaScript ongoing)  
+👯 **I’m looking to collaborate on:** Beginner-friendly Java / Frontend projects  
+🤝 **I’m looking for help with:** Competitive Programming, DSA, and improving CSS layouts  
+🌱 **I’m currently learning:** DSA in Java, Git/GitHub, JavaScript → Python next  
+💬 **Ask me about:** Java, DSA, HTML, CSS, beginner web dev  
+⚡ **Fun fact:** I prefer building projects while learning
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mvqQJCvVXR)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_yadav_273)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hy0698022)
@@ -17,38 +19,39 @@
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshYadav273&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=HarshYadav273&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav273&theme=dark&hide_border=false&layout=compact)
-
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HarshYadav273&theme=dark)
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshYadav273&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshYadav273&layout=compact&theme=dark)
 
+---
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshYadav273&theme=radical&no-frame=false&no-bg=true&margin-w=10)
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=HarshYadav273&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=HarshYadav273&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=HarshYadav273&icon=0&color=0)
